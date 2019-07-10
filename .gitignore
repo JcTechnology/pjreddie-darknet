@@ -1,3 +1,9 @@
+# My Stuff
+*.74
+*.23
+*.weights
+bitwise/downloader/output/*
+
 *.o
 *.dSYM
 *.csv
